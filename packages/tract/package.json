@@ -1,0 +1,8 @@
+{
+  "name": "tract",
+  "version": "0.0.0",
+  "description": "Create highly optimized React apps easily",
+  "repository": "https://github.com/jtmthf/tract.git",
+  "author": "Jack Moore <jtmthf@mst.edu>",
+  "license": "MIT"
+}

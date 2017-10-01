@@ -4,8 +4,11 @@
     "start": "nps"
   },
   "devDependencies": {
+    "@types/webpack": "^3.0.12",
     "all-contributors-cli": "^4.5.0",
     "lerna": "^2.2.0",
-    "nps": "^5.7.1"
+    "nps": "^5.7.1",
+    "typescript": "^2.5.3",
+    "webpack": "^3.6.0"
   }
 }
