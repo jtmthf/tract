@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "nps"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^4.5.0",
+    "lerna": "^2.2.0",
+    "nps": "^5.7.1"
+  }
+}

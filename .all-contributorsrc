@@ -1,0 +1,21 @@
+{
+  "projectName": "tract",
+  "projectOwner": "jtmthf",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jtmthf",
+      "name": "Jack Moore",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8162598?v=4",
+      "profile": "https://github.com/jtmthf",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    }
+  ]
+}
